@@ -32,7 +32,7 @@ namespace TP1_Pokemon
 
         public StartGame(String nul)
         {
-            musicGame();
+            //musicGame();
             Menu();
         }
 
